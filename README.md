@@ -2,6 +2,8 @@
 
 A Fuzzy Expert System designed to estimate the risk of Coronary Heart Disease (CHD) using uncertain medical data.
 
+![HealthWise](file_000000007108720ab5f073afde7e19eb.png)
+
 ## 📌 Overview
 HealthWise is an intelligent system that uses Fuzzy Logic to simulate human medical reasoning. Instead of relying on rigid thresholds, it works with linguistic values such as Low, Medium, and High to provide interpretable risk predictions.
 
